@@ -1,0 +1,24 @@
+export const renderImage: any = {
+  login:
+    'https://media.istockphoto.com/id/1284690585/photo/colorful-vegetables-and-fruits-vegan-food-in-rainbow-colors.jpg?s=612x612&w=0&k=20&c=fXqp_CPaHMyfzMhjZGQG1zloNBNkVRjdYKScw3K98XQ=',
+  [8906161670378]:
+    'https://e7.pngegg.com/pngimages/970/479/png-clipart-chocolate-bar-ice-cream-chocolate-bar-dominostein-white-chocolate-almond-food-frozen-dessert.png',
+  [8906161670361]:
+    'https://images.rawpixel.com/image_400/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL2xhdXJhc3RlZmFubzI2Nl9hX2NhcmFtZWxfY2FuZHlfYW5kX2NhcmFtZWxfc2F1Y2VfaXNvbGF0ZWRfb25fd19kYzM5ODg1Yi03ZDYxLTRhZjctYjQ5Mi1kNDI1ZTI4OThjZDBfMS5qcGc.jpg',
+  [5555500029020]:
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv3f-uZd3DwtmwUyi41XsN837U2Y98yPDVAEWHywpLWpKzVmgfAxfPDy52EpCaxoaj6g&usqp=CAU',
+  [5555500029013]:
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv3f-uZd3DwtmwUyi41XsN837U2Y98yPDVAEWHywpLWpKzVmgfAxfPDy52EpCaxoaj6g&usqp=CAU',
+  [8886467125614]:
+    'https://m.media-amazon.com/images/I/619IAVFsZgL._AC_UF350,350_QL80_.jpg',
+  [8901030538162]:
+    'https://ik.imagekit.io/wlfr/wellness/images/products/378881-1.jpg',
+  [8908000008793]:
+    'https://m.media-amazon.com/images/I/51NGV4MzxOL._AC_UF350,350_QL50_.jpg',
+  [8906010912673]:
+    'https://b.zmtcdn.com/data/dish_photos/b02/bd14ce1ae5d7e8d663d2c58e5cb44b02.jpeg',
+  [5555500029006]:
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGnPTBAyG5QWZPvY5DdGc_ookfqd0JrCiafc6VjS5Eg&s',
+  [5555500028993]:
+    'https://www.zedblack.com/cdn/shop/products/Sandal-Flora.png?v=1679647532',
+};

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>285154550256-jrpe0ba6vrrgj5p0a40v22dkeivb069p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.285154550256-jrpe0ba6vrrgj5p0a40v22dkeivb069p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>285154550256-rilv09k3sr4eek7oec0qqu7iai72pam0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBH4uev8zYx4YCm2VDZf2Z4OcHWjmRKV8k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285154550256</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.TwinLeaves.com</string>
+	<key>PROJECT_ID</key>
+	<string>twinleaves-7e4ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twinleaves-7e4ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285154550256:ios:385eb270187b7553fd7d35</string>
+</dict>
+</plist>
